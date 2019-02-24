@@ -1,0 +1,27 @@
+react install and redux
+	: npm install --save redux react-redux redux-thunk
+	-add "Redux DecTools" in chrome extension
+	: npm install --save redux-devtools-extension
+
+	install V4 react router
+		:npm install --save react-router@next
+
+	if you delete modules install
+		:npm install
+		:npm audit fix (if suggested) 
+
+Using a Build Workflow
+	why? 
+		-Optimize Code
+		-Use Next-Gen JavaScript Features
+		-Be More Productive
+	how?
+		-Use Dependency Management Tool(npm or yarn)
+		-Use Bundler (Recommended: Webpack)
+		-Use Compiler (Next-Gen JavaScript) - Babel + Presets
+		-Use a Development Server
+
+
+last stop: completed
+	
+		
